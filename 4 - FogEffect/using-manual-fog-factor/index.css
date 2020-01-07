@@ -1,0 +1,29 @@
+
+#AMC {
+	width: 800px;
+	height: 600px;
+	position: absolute;
+	z-index:0
+}
+
+#title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.slider-container {
+
+	margin-left:900px;
+}
+
+.slider-container #end-value{
+	margin-left:900px;
+}
+
+#range {
+    width: 3em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+}
